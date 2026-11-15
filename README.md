@@ -1,3 +1,29 @@
+# motia
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+实时组合、扩展、观测与响应每一个服务的框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # iii
 
 ![iii: point-to-point integrations vs zero-integration via shared runtime](.github/assets/zero-integration.png)
